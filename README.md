@@ -1,4 +1,4 @@
-# Crossmint
+# Crossmint Mateo Fernandez
 Crossmint Code Challenge Phase 1 &amp; 2
 
 ### Phase 1 
