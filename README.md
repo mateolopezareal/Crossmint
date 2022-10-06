@@ -6,4 +6,4 @@ In this first part of the challenge the first approach used was to create a clas
 
 
 ### Phase 2
-For phase 2, a class Map was created in order to copy the goal map into our map. There methods used to create the copy are createCopyofGoalMap and createCopyofGoalMap_v2, which are pretty similar. (One runs the whole map cheching each cell what value it is, and the second one runs the whole map for each element).
+For phase 2, a class Map was created in order to copy the goal map into our map. The methods used to create the copy are createCopyofGoalMap and createCopyofGoalMap_v2, which are pretty similar. (One runs the whole map checking each cell what value it is, and the second one runs the whole map for each element).
