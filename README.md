@@ -2,7 +2,7 @@
 Crossmint Code Challenge Phase 1 &amp; 2
 
 ### Phase 1 
-In this first part of the challenge the first approach used was to create a class Cross to generate a cross with an specific length for a given map shape. However, as the code for the second phase is also functional for this phase, the Cross class is commented in the bottom of the code. Just if you want to use that approach. 
+In this first part of the challenge the first approach used was to create a class Cross to generate a cross with an specific length for a given map shape. However, as the code for the second phase is also functional for this phase, the Cross class is commented in the bottom of the code and the code of phase 2 is used.  The code is commented just if you want to use that approach. 
 
 
 ### Phase 2
